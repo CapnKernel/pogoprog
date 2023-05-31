@@ -861,7 +861,7 @@
   (gr_text "ERR" (at 136.18 80.6) (layer "F.SilkS") (tstamp 93e929fc-7d46-4d82-a054-bb1e2bdc53a4)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "v1.4a" (at 140.1 109.5) (layer "F.SilkS") (tstamp 965e8149-bf91-4eb9-a42a-71c8e1a46364)
+  (gr_text "v1.4a" (at 146.25 80.55) (layer "F.SilkS") (tstamp 965e8149-bf91-4eb9-a42a-71c8e1a46364)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "PRG" (at 124.72 80.6) (layer "F.SilkS") (tstamp e1c0929b-7f58-4491-ac52-94505ff3edd6)
