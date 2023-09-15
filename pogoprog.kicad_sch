@@ -1360,7 +1360,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x06_Odd_Even") (at 133.985 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 05948818-67af-4bc4-99c8-31daf608ffaf)
-    (property "Reference" "J3" (at 135.255 66.675 0)
+    (property "Reference" "J1" (at 135.255 66.675 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_02x06_Odd_Even" (at 133.985 45.085 0)
@@ -1387,7 +1387,7 @@
     (instances
       (project "pogoprog"
         (path "/0d35483a-0b12-46cc-b9f2-896fd6831779"
-          (reference "J3") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -1561,10 +1561,10 @@
     (pin "D7" (uuid aa6fd006-43f2-405b-a4f5-fcc1e383f0ff))
     (pin "D8" (uuid 781104f2-23a6-4684-9513-d5a3b8e8b032))
     (pin "D9" (uuid 2eceb218-fb78-4a17-8e52-62682152724b))
-    (pin "GND" (uuid 80df2175-9fcd-4fa8-86c5-8de1a8bbf4aa))
-    (pin "GND" (uuid 80df2175-9fcd-4fa8-86c5-8de1a8bbf4aa))
-    (pin "RESET" (uuid 0e6999bf-2497-45a0-bb03-f1ef5e7e4f0c))
-    (pin "RESET" (uuid 0e6999bf-2497-45a0-bb03-f1ef5e7e4f0c))
+    (pin "GND" (uuid 80df2175-9fcd-4fa8-86c5-8de1a8bbf4ab))
+    (pin "GND" (uuid 80df2175-9fcd-4fa8-86c5-8de1a8bbf4ab))
+    (pin "RESET" (uuid 0e6999bf-2497-45a0-bb03-f1ef5e7e4f0d))
+    (pin "RESET" (uuid 0e6999bf-2497-45a0-bb03-f1ef5e7e4f0d))
     (pin "VIN" (uuid 1b117cba-f2e6-4657-851b-3e0aa5c84e45))
     (instances
       (project "pogoprog"
